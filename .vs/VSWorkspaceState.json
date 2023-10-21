@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Expense Tracker",
+    "\\Expense Tracker\\Areas",
+    "\\Expense Tracker\\Areas\\Identity",
+    "\\Expense Tracker\\Areas\\Identity\\Pages",
+    "\\Expense Tracker\\Areas\\Identity\\Pages\\Account",
+    "\\Expense Tracker\\Controllers",
+    "\\Expense Tracker\\Views",
+    "\\Expense Tracker\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Expense Tracker.sln",
+  "PreviewInSolutionExplorer": false
+}
